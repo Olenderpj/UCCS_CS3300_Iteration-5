@@ -46,12 +46,30 @@ If you change the way that you design the front-end of your website, please resu
 
 ## Instructions:
 
-1. Modify the HTML and CSS code for the following views.<br>
-   a. Devise Login Page. <br>
- 
-   b. Devise Registration Page. <br>
-     
-   c. Project Show View. <br>
+You will be modifying the following 3 views to look like the wireframe diagrams that you created in iteration 02 earlier in the semester. <br>
+1. Project "Show" View <br>
+   - <br> 
+2. Devise Login Page <br>
+   -  <br>
+3. Devise Registration Page <br>
+   - <br>
+
+```diff
++ Remember to push your code to GitHub early and often so that you avoid losing completed work.
+```
+
+1. Take a screenshot of the initial view to show your starting point.
+
+2. Modify the HTML and CSS code for each of the views and push your code to GitHub when complete.<br>
+
+3. Take a second screenshot of your finalized view to show your progress.
+
+
+# Response Questions & Deliverables: 
+1. Provide a screenshot of the following for all 3 of the views that you made changes to (Should be 9 total screenshots):
+   1. Your wireframe diagram for each view (you created this in iteration 02.)
+   2. What the view looks like before you make changes.
+   3. What the view looks like after your changes have been made.
 
 
 2. Provide a <ins> **small**</ins> portion of your HTML Code and give an explanation of what HTML tags you used, and how you
@@ -63,12 +81,9 @@ If you change the way that you design the front-end of your website, please resu
 
 4. Provide a **minimum** of **3** references that helped you learn something or solve a problem.
 
-
-5. Write a 1 paragraph response for one of the following prompts: <br>
-   1. What problems did you have and what process did you go through to solve them, and did you end up meeting your personal 
-   and assignment goals? <br>
+3. Write a 1 paragraph response for **one** of the following prompts: <br>
+   1. What problems did you have and what process did you go through to solve them, and did you end up meeting your personal
+      and assignment goals? <br>
    2. What's the one thing that you have seen in your classmates' work or process that you would like to try in
       your next iteration or project? <br>
    3. How has your previous experience (either school or professional) helped you accomplish your goals in this project? <br>
-
-
