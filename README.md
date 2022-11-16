@@ -61,10 +61,10 @@ If you change the way that you design the front-end of your website, please resu
 3. Provide a <ins> **small**</ins> portion of your CSS Code and give an explanation of what the styling accomplishes.
 
 
-4. Provide a **minimum** of 3 references that helped you learn something or solve a problem.
+4. Provide a **minimum** of **3** references that helped you learn something or solve a problem.
 
 
-5. Write a 1 paragraph response to one of the following prompts: <br>
+5. Write a 1 paragraph response for one of the following prompts: <br>
    1. What problems did you have and what process did you go through to solve them, and did you end up meeting your personal 
    and assignment goals? <br>
    2. What's the one thing that you have seen in your classmates' work or process that you would like to try in
