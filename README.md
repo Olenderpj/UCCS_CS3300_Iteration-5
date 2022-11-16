@@ -1,6 +1,5 @@
 # UCCS - CS 3300 Iteration 5
 
----
 ## Assignment Description:
 In this assignment, you are going to continue working on your individual portfolio software project. Using the wireframe 
 sketches that you created earlier in the semester, you will start implementing your ideas and creating the HTML and Css 
@@ -18,7 +17,11 @@ view that you redesign. <br>
 **Time Estimate:** 3-6 hours based on experience.<br>
 **Points:** <br>
 **Deliverables:** .DOCX, .PDF, and other text-based documents.
-*<div style="color:red;"> No compressed (.zip, .tar, etc.) will be accepted, make sure that all deliverables are all in one submission file.</div>*
+
+```diff 
+- No compressed (.zip, .tar, etc.) will be accepted, make sure that all deliverables
+- are all in one submission file.
+ ```
 
 ---
 
