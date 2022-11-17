@@ -46,17 +46,31 @@ If you change the way that you design the front-end of your website, please resu
 
 ## Instructions:
 
-You will be modifying the following 3 views to look like the wireframe diagrams that you created in iteration 02 earlier in the semester. <br>
-1. Project "Show" View <br>
-   - <br> 
-2. Devise Login Page <br>
-   -  <br>
-3. Devise Registration Page <br>
-   - <br>
+1. Ensure that the devise user views exist, under `app/views/users` you should see some additional directories associated with devise.
+   1. If you don't see these directories, run the following command to generate them.
+      - `rails generate devise:views users`
+
+2. Add the following code to your projects controller
+   ```ruby
+         before_action :set_project, only: %i[ show edit update destroy ]
+         before_action :authenticate_user!, only: %i[ new edit create destroy ]      
+   ```
+   
+3. in the rails helper, 
+
+
+2. You will now be modifying the following 3 views to look like the wireframe diagrams that you created in iteration 02 earlier in the semester. <br>
+   1. Project "Show" View <br>
+      - <br> 
+   2. Devise Login Page <br>
+      -  <br>
+   3. Devise Registration Page <br>
+      - <br>
 
 ```diff
 + Remember to push your code to GitHub early and often so that you avoid losing completed work.
 ```
+**Repeat the following steps for each view that is modified**
 
 1. Take a screenshot of the initial view to show your starting point.
 
