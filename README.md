@@ -17,7 +17,7 @@ corresponding to your changes. <br>
 
 **Purpose:** Learn how to use wireframe design documents to create HTML & CSS based web-applications.<br>
 **Effort:** Individual <br>
-**Points:** 75 <br>
+**Points:** 80 <br>
 **Deliverables:** .DOCX, .PDF, and other text-based document formats.
 
 ```diff 
@@ -36,8 +36,10 @@ corresponding to your changes. <br>
 **[ 2.5  Points each ]:** Wireframe image from iteration 02 for each view (New, Show Edit). <br>
 **[ 10 Points each ]:** Completed code for each view (New, Show Edit). <br>
 
-[//]: # (15 points for the write up)
+[//]: # (20 points for the write up)
 **[ 5  Points ]:** 3 References or links that helped you. <br>
+**[ 2.5  Points ]:** Provided HTML code with simple explanation
+**[ 2.5  Points ]:** Provided HTML code with simple explanation
 **[ 10 Points ]:** Response Paragraph. <br>
 
 ### Extra Credit Opportunity:
