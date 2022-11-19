@@ -29,22 +29,22 @@ corresponding to your changes. <br>
 
 ---
 [//]: # (This deliverable is critical and MUST be included)
-**[ 15 Points ]:** Link to your GitHub Repository containing all updated and working code.<br>
+**[ 7 Points ]:** Link to your GitHub Repository containing all updated and working code.<br>
 
 [//]: # (45 total points: 15 total points for each set of deliverables, there should be 3 images)
-**[ 2.5  Points each ]:** start image for each view (New, Show Edit). <br>
-**[ 2.5  Points each ]:** Wireframe image from iteration 02 for each view (New, Show Edit). <br>
-**[ 10 Points each ]:** Completed code for each view (New, Show Edit). <br>
+**[ 1  Points each ]:** start image for each view (New, Show Edit). <br>
+**[ 1  Points each ]:** Wireframe image from iteration 02 for each view (New, Show Edit). <br>
+**[ 5 Points each ]:** Completed code for each view (New, Show Edit). <br>
 
 [//]: # (20 points for the write up)
 **[ 5  Points ]:** 3 References or links that helped you. <br>
-**[ 2.5  Points ]:** Provided HTML code with simple explanation
-**[ 2.5  Points ]:** Provided HTML code with simple explanation
-**[ 10 Points ]:** Response Paragraph. <br>
+**[ 1  Points ]:** Provided HTML code with simple explanation
+**[ 1  Points ]:** Provided HTML code with simple explanation
+**[ 5 Points ]:** Response Paragraph. <br>
 
 ### Extra Credit Opportunity:
 
-**[ 10 points ]:** Implement a minimum of 4 new unit tests and provide the associated code with comments for each test.
+**[ 5 points ]:** Implement a minimum of 4 new unit tests and provide the associated code with comments for each test.
 
 
 # Instructions:
@@ -90,23 +90,6 @@ corresponding to your changes. <br>
    2. What the view looks like before you make changes.
    3. What the view looks like after your changes have been made.
 
-
-2. Provide a <ins> **small**</ins> portion of your HTML Code and give an explanation of what HTML tags you used, and how you
-      structured your code.
-
-
-3. Provide a <ins> **small**</ins> portion of your CSS Code and give an explanation of what the styling accomplishes.
-
-
 4. Provide a **minimum** of **3** references that helped you learn something or solve a problem.
-
-
-3. Choose one of the prompts below and write a one paragraph respons.: <br>
-   1. What problems did you have and what process did you go through to solve them, and did you end up meeting your personal
-      and assignment goals? <br>
-   2. What's the one thing that you have seen in your classmates' work or process that you would like to try in
-      your next iteration or project? <br>
-   3. How has your previous experience (either school or professional) helped you accomplish your goals in this project? <br>
-
 
 4. If you chose to attempt the extra credit, put the associated code here.
