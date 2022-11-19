@@ -17,7 +17,7 @@ corresponding to your changes. <br>
 
 **Purpose:** Learn how to use wireframe design documents to create HTML & CSS based web-applications.<br>
 **Effort:** Individual <br>
-**Points:** 80 <br>
+**Points:** 40 <br>
 **Deliverables:** .DOCX, .PDF, and other text-based document formats.
 
 ```diff 
@@ -31,12 +31,12 @@ corresponding to your changes. <br>
 [//]: # (This deliverable is critical and MUST be included)
 **[ 7 Points ]:** Link to your GitHub Repository containing all updated and working code.<br>
 
-[//]: # (45 total points: 15 total points for each set of deliverables, there should be 3 images)
+[//]: # (21 total points: 7 total points for each set of deliverables, there should be 3 images)
 **[ 1  Points each ]:** start image for each view (New, Show Edit). <br>
 **[ 1  Points each ]:** Wireframe image from iteration 02 for each view (New, Show Edit). <br>
 **[ 5 Points each ]:** Completed code for each view (New, Show Edit). <br>
 
-[//]: # (20 points for the write up)
+[//]: # (12 points for the write up)
 **[ 5  Points ]:** 3 References or links that helped you. <br>
 **[ 1  Points ]:** Provided HTML code with simple explanation
 **[ 1  Points ]:** Provided HTML code with simple explanation
