@@ -38,8 +38,8 @@ corresponding to your changes. <br>
 
 [//]: # (12 points for the write up)
 **[ 5  Points ]:** 3 References or links that helped you. <br>
-**[ 1  Points ]:** Provided HTML code with simple explanation
-**[ 1  Points ]:** Provided HTML code with simple explanation
+**[ 1  Points ]:** Provided HTML code with simple explanation. <br>
+**[ 1  Points ]:** Provided HTML code with simple explanation. <br>
 **[ 5 Points ]:** Response Paragraph. <br>
 
 ### Extra Credit Opportunity:
