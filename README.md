@@ -90,6 +90,12 @@ corresponding to your changes. <br>
    2. What the view looks like before you make changes.
    3. What the view looks like after your changes have been made.
 
-4. Provide a **minimum** of **3** references that helped you learn something or solve a problem.
+4. Provide a **minimum** of **3** references that helped you learn something or solve a problem. <br>
 
-4. If you chose to attempt the extra credit, put the associated code here.
+5. Write a 1 paragraph response for one of the following prompts: <br>
+
+   1. What problems did you have and what process did you go through to solve them, and did you end up meeting your personal and assignment goals? <br>
+   2. What's the one thing that you have seen in your classmates' work or process that you would like to try in your next iteration or project? <br>
+   3. How has your previous experience (either school or professional) helped you accomplish your goals in this project? <br>
+   
+6. If you chose to attempt the extra credit, put the associated code here.
